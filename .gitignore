@@ -1,0 +1,10 @@
+.DS_store
+*/*/.idea
+*/*/target
+*/*/*/target
+Scala/.idea/
+Scala/forcomp/
+Scala/funsets/
+Scala/objsets/
+Scala/patmat/
+Scala/recfun/
